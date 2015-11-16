@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<connections>
+
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.146:1521:orcl</url>
+   <user>brc</user>
+   <pass>brc</pass>
+   <name>146 Bracigovo</name>
+ </connection>
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.146:1521:orcl</url>
+   <user>krp</user>
+   <pass>krp</pass>
+   <name>146  Krasna Polqna</name>
+ </connection>
+
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.240.44.146:1521:orcl</url>
+   <user>sdk</user>
+   <pass>sdk</pass>
+   <name>146  Serdika</name>
+ </connection>
+ 
+ 
+ <connection>
+   <driver>com.is.util.db.driver.digestdriver.DigestDriver</driver>
+   <url>digest:jdbc:postgresql://10.240.110.120:5432/brc</url>
+   <user>mdt</user>
+   <pass>mdt</pass>
+   <name>120 PGR Bracigovo</name>
+ </connection>
+ 
+  <!-- REAL DBses -->
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@10.0.10.130:1521:XE</url>
+   <user>krl</user>
+   <pass>krl</pass>
+   <name>REAL!!! Karlovo</name>
+ </connection>
+ 
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.124:1521:XE</url>
+   <user>bnk</user>
+   <pass>Bnk12345</pass>
+   <name>REAL!!! Bankq</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.112:1521:XE</url>
+   <user>iln</user>
+   <pass>Iln12345</pass>
+   <name>REAL!!! Ilinden</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.114:1521:XE</url>
+   <user>isk</user>
+   <pass>Isk12345</pass>
+   <name>REAL!!! Iskar</name>
+ </connection>
+ 
+    <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.108:1521:XE</url>
+   <user>izg</user>
+   <pass>Izg12345</pass>
+   <name>REAL!!! Izgrev</name>
+ </connection>
+ 
+     <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.111:1521:XE</url>
+   <user>krp</user>
+   <pass>Krp12345</pass>
+   <name>REAL!!! Krasna polqna</name>
+ </connection>
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.102:1521:XE</url>
+   <user>krs</user>
+   <pass>Krs12345</pass>
+   <name>REAL!!! Krasno Selo</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.122:1521:XE</url>
+   <user>krm</user>
+   <pass>Krm12345</pass>
+   <name>REAL!!! Kremikovci</name>
+ </connection>
+ 
+    <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.109:1521:XE</url>
+   <user>lzn</user>
+   <pass>Lzn12345</pass>
+   <name>REAL!!! Lozenec</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.119:1521:XE</url>
+   <user>lln</user>
+   <pass>Lln12345</pass>
+   <name>REAL!!! Lulin</name>
+ </connection>
+ 
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.115:1521:XE</url>
+   <user>mld</user>
+   <pass>Mld12345</pass>
+   <name>REAL!!! Mladost</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.113:1521:XE</url>
+   <user>nad</user>
+   <pass>Nad12345</pass>
+   <name>REAL!!! Nadejda</name>
+ </connection>
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.121:1521:XE</url>
+   <user>nis</user>
+   <pass>Nis12345</pass>
+   <name>REAL!!! Novi iskar</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.104:1521:XE</url>
+   <user>obr</user>
+   <pass>Obr12345</pass>
+   <name>REAL!!! Oborishte</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.118:1521:XE</url>
+   <user>ovk</user>
+   <pass>Ovk12345</pass>
+   <name>REAL!!! Ovcha kupel</name>
+ </connection>
+ 
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.123:1521:XE</url>
+   <user>pan</user>
+   <pass>Pan12345</pass>
+   <name>REAL!!! Pancharevo</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.106:1521:XE</url>
+   <user>pdn</user>
+   <pass>Pdn12345</pass>
+   <name>REAL!!! Podyqne</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.105:1521:XE</url>
+   <user>sdk</user>
+   <pass>Sdk12345</pass>
+   <name>REAL!!! Serdika</name>
+ </connection>
+
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.107:1521:XE</url>
+   <user>slt</user>
+   <pass>Slt12345</pass>
+   <name>REAL!!! Slatina</name>
+ </connection>
+ 
+ <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.110:1521:XE</url>
+   <user>trs</user>
+   <pass>Trs12345</pass>
+   <name>REAL!!! Sredec + Triadicac</name>
+ </connection>
+ 
+   <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.116:1521:XE</url>
+   <user>std</user>
+   <pass>Std12345</pass>
+   <name>REAL!!! Studentska</name>
+ </connection>
+ 
+ 
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.103:1521:XE</url>
+   <user>vzr</user>
+   <pass>Vzr12345</pass>
+   <name>REAL!!! Vazrajdane</name>
+ </connection>
+
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.117:1521:XE</url>
+   <user>vit</user>
+   <pass>Vit12345</pass>
+   <name>REAL!!! Vitosha</name>
+ </connection>
+ 
+
+  <connection>
+   <driver>oracle.jdbc.OracleDriver</driver>
+   <url>jdbc:oracle:thin:@172.22.62.120:1521:XE</url>
+   <user>vrb</user>
+   <pass>Vrb12345</pass>
+   <name>REAL!!! Vrabnitsa</name>
+ </connection>
+
+</connections>
